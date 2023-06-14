@@ -1,6 +1,28 @@
 img { 
-    width :400;
-    height :200px;
+    width :200;
+    height :100px;
     object-fit: cover;
+} 
 
+.avatar {
+    width : 400px;
+    height:400px;
+
+}
+
+#main {
+width :200;
+height: 500;
+
+}
+
+h1{
+    color : blue;
+    background-color: #8121f488;
+    position: sticky;
+    top: 60px;
+}
+
+nav{
+    display: block  ;
 }
